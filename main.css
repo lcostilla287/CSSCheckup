@@ -2,6 +2,30 @@ body{
     background-color: lightgray;
 }
 
+h1{
+    text-align: center;
+}
+
 .eggdog{
     background-color: white;
+}
+
+/* Let's Try this color */
+#number-one{
+    color: tomato;
+}
+
+/* Another one */
+#number-two{
+    color: teal;
+}
+
+/* A font */
+#random-font{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Me try some margin and padding stuffs */
+.dog{
+    
 }
